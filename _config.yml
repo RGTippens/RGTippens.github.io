@@ -10,7 +10,7 @@ description: > # "Write an awesome description for your new site here.
   Personal website of Rebecca Tippens, PhD candidate, UT Austin Dept of Astronomy.
 
 copyright: 'Copyright &copy; 2017 Rebecca Tippens. All Rights Reserved.'
-credits: 'Layout: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>. Background: NASA, ESA, CFHT, CXO, M.J. Jee (University of California, Davis), and A. Mahdavi (San Francisco State University)'
+credits: 'Theme: Landing Page by <a href="http://startbootstrap.com/">Start Bootstrap</a>. <br> Abell 520 Image Credit: NASA, ESA, CFHT, CXO, M.J. Jee (University of California, Davis), and A. Mahdavi (San Francisco State University)'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
