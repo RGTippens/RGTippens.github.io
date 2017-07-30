@@ -1,6 +1,6 @@
 ---
 layout: default
-img: phones.png
+img: localgroup.png
 category: Services
 title: Planes of satellite galaxies in the Local Group and beyond
 description: |
