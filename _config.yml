@@ -6,7 +6,8 @@ url: https://rgtippens.github.io/
 title: Rebecca Tippens
 email: rtippens@astro.as.utexas.edu
 author: Rebecca Tippens
-description: > 'Personal website of Rebecca Tippens, PhD candidate, UT Austin Dept of Astronomy.'
+description: > # "Write an awesome description for your new site here. 
+  Personal website of Rebecca Tippens, PhD candidate, UT Austin Dept of Astronomy.
 
 copyright: 'Copyright &copy; 2017 Rebecca Tippens. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
